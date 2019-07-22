@@ -1,0 +1,40 @@
+{
+    "flashcards": [
+    {
+        "id": 1,
+        "category": 3,
+        "word": "mądry",
+        "translate": "wise"
+    },
+    {
+        "id": 2,
+        "category": 3,
+        "word": "rekin",
+        "translate": "shark"
+    },
+    {
+        "id": 3,
+        "category": 3,
+        "word": "żądanie",
+        "translate": "request"
+    },
+    {
+        "id": 4,
+        "category": 3,
+        "word": "klawisz",
+        "translate": "key"
+    },
+    {
+        "id": 5,
+        "category": 3,
+        "word": "robak",
+        "translate": "worm"
+    },
+    {
+        "id": 6,
+        "category": 3,
+        "word": "potok",
+        "translate": "stream"
+    }],
+    "count": 6
+}
